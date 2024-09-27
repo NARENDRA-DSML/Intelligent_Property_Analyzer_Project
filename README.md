@@ -5,7 +5,7 @@ The **Intelligent Property Analyser** is a comprehensive data science and machin
 
 ## Demo
 
-https://github.com/NARENDRA-DSML/Intelligent_Property_Analyzer_Project/blob/dfece51d2360d4816044ca2a5339ca305ad26b9e/House_Price_Analyzer.mp4
+https://github.com/NARENDRA-DSML/Intelligent_Property_Analyzer_Project/blob/c5b40e844c96cbcefee5cfb27e2babf8c7e7ac37/House_Price_Analyzer.mp4
 
 ## Features
 - **Prediction Model:** Built using the Random Forest algorithm, achieving an R2 score of 0.94.
